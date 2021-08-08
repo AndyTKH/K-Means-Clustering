@@ -15,6 +15,6 @@ cd K-Means-Clustering
 ```
 2. Open the notebook to view the project. 
 ```
-jupyter notebook k_means_stock.ipynb
+jupyter notebook k_means_gold.ipynb
 ```
 3. Simply close the terminal window to exit Jupyter Notebook. 
